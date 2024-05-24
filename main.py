@@ -12,7 +12,7 @@ class CurrencyConverterApp:
 
         Vstupy:
         - root: Hlavní okno Tkinteru.
-
+   
         Výstupy:
         - Inicializuje GUI a potřebné instance.
         """
