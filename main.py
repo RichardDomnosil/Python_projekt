@@ -34,6 +34,7 @@ def convert_currency(api_key, amount, base_currency, target_currency):
     converted_amount = amount * rate
     return converted_amount
 
+#text na převádění měn
 def main():
     manager = CurrencyManager()
     print("Vítejte v převaděči měn!")
